@@ -22,6 +22,6 @@
 
 ![Screenshot 2021-10-30 153037](https://user-images.githubusercontent.com/90207282/139529644-6748bb8c-be16-447f-9278-e3237a46f252.png)
 
-**Press 'u'/'U'
+**Press 'c'/'C'
 
 ![Screenshot 2021-10-30 153243](https://user-images.githubusercontent.com/90207282/139529646-3c040133-8e53-4b8e-9961-1470f1c70932.png)
