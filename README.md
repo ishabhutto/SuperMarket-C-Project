@@ -1,1 +1,1 @@
-# SuperMarket-Cpp-Project
+# SuperMarket-C++-Project
